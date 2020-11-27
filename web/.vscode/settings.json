@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c5ea2ffa-a9cd-4f31-b523-4d635c5c088b/resourceGroups/rg-capacity-dev-001/providers/Microsoft.Web/sites/app-web-dev-victoria-001",
+    "appService.deploySubpath": "dist\\play-ngapp"
+}
